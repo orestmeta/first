@@ -1,4 +1,4 @@
-const result = document.querySelector('#result'),
+const result = document.querySelector('#res
       expression = document.querySelector('#expression'),
       num = document.querySelectorAll('.number:not(.equals)'),
       operation = document.querySelectorAll('.operation'),
